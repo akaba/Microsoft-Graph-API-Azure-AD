@@ -3,7 +3,7 @@
 *  Set initial password for users.
 *  Add email Multifactor Authentication Method  
 *  Update all user attributes 
-*  Add/remove users under branch Administrative Unit
+*  Add/remove users to Administrative Units based on their Office location.
  
  
 
