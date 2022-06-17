@@ -1,6 +1,6 @@
 # Microsoft-Graph-API-Azure-AD scripts for Azure AD user identity lifecycle management
-*  Create users from SQL database source of truth
-*  Set initial password for users.
+*  Create Azure AD users from SQL database source of truth
+*  Set initial password for the users.
 *  Add email Multifactor Authentication Method  
 *  Update all user attributes 
 *  Add/remove users to Administrative Units based on their Office location.
